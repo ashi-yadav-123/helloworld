@@ -1,0 +1,91 @@
+                                             html part
+                                             
+                                             
+                                             <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" type="text/css" href="1style.css">
+</head>`
+<!---for color more use color pelet -->
+<body>
+ <h1>jai shree ram🚩</h1>
+ <hr>
+ <p>paragragh 1</p>
+ <hr>
+ <p>paragragh 1</p>
+ <hr>
+ <p>paragragh 1</p>
+ <hr>
+ <button>click here</button>
+ <hr>
+ <div>
+ >Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, pariatur alias soluta expedita nesciunt consequuntur, ipsa hic illum nam veniam sapiente quia itaque repellat sequi laboriosam, perferendis officia eos! Molestiae?
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, pariatur alias soluta expedita nesciunt consequuntur, ipsa hic illum nam veniam sapiente quia itaque repellat sequi laboriosam, perferendis officia eos! Molestiae?Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, pariatur alias soluta expedita nesciunt consequuntur, ipsa hic illum nam veniam sapiente quia itaque repellat sequi laboriosam, perferendis officia eos! Molestiae?Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, pariatur alias soluta expedita nesciunt consequuntur, ipsa hic illum nam veniam sapiente quia itaque repellat sequi laboriosam, perferendis officia eos! Molestiae?Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, pariatur alias soluta expedita nesciunt consequuntur, ipsa hic illum nam veniam sapiente quia itaque repellat sequi laboriosam, perferendis officia eos! Molestiae?Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, pariatur alias soluta expedita nesciunt consequuntur, ipsa hic illum nam veniam sapiente quia itaque repellat sequi laboriosam, perferendis officia eos! Molestiae?
+ 
+</div>
+<br>
+<div id="divid">
+    >Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, pariatur alias soluta expedita nesciunt consequuntur, ipsa hic illum nam veniam sapiente quia itaque repellat sequi laboriosam, perferendis officia eos! Molestiae?
+       Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, pariatur alias soluta expedita nesciunt consequuntur, ipsa hic illum nam veniam sapiente quia itaque repellat sequi laboriosam, perferendis officia eos! Molestiae?Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, pariatur alias soluta expedita nesciunt consequuntur, ipsa hic illum nam veniam sapiente quia itaque repellat sequi laboriosam, perferendis officia eos! Molestiae?Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, pariatur alias soluta expedita nesciunt consequuntur, ipsa hic illum nam veniam sapiente quia itaque repellat sequi laboriosam, perferendis officia eos! Molestiae?Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, pariatur alias soluta expedita nesciunt consequuntur, ipsa hic illum nam veniam sapiente quia itaque repellat sequi laboriosam, perferendis officia eos! Molestiae?Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, pariatur alias soluta expedita nesciunt consequuntur, ipsa hic illum nam veniam sapiente quia itaque repellat sequi laboriosam, perferendis officia eos! Molestiae?
+    
+   </div>
+
+</body>
+</html>
+
+
+                                              css part
+                                              
+                                              
+                                              
+  h1{
+    color: rgb(255, 149, 0);
+}
+
+p{
+    color:rgb(233, 226, 15);
+}
+button{
+    color:rgb(3, 0, 16)
+}
+body {
+     background-color: rgb(11, 70, 7); 
+}
+button {
+    background-color: rgb(58, 184, 155);
+}
+div{
+    background-color: rgba(148, 220, 25, 0.72);
+}
+h1{
+    text-align: center;
+    text-transform:capitalize;
+}
+div{
+    color: rgb(6, 85, 34);
+}
+h1{
+    font-weight: bold;
+}
+h1{
+    font-style:italic
+
+}
+div {
+     font-family:cursive
+}
+div{
+    line-height: 34px;
+    font-size: 17px;
+}
+#divid{
+    background-color: rgba(255, 30, 150, 0.831);
+}
+#divid{
+    color: aqua;
+}
